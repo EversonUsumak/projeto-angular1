@@ -1,0 +1,35 @@
+{
+    "produtos": [
+    {
+        "id": 1,
+        "produto":"Jogo 1",
+        "descrição": "Jogo do ano",
+        "foto": "jogo1.PNG",
+        "preco": 180
+
+    },
+    {
+        "id": 2,
+        "produto":"Jogo 2",
+        "descrição": "Jogo do ano",
+        "foto": "jogo2.PNG",
+        "preco": 500
+
+    },
+    {
+        "id": 3,
+        "produto":"Jogo 3",
+        "descrição": "Descrição do jogo 3",
+        "foto": "jogo3.PNG",
+        "preco": 400
+
+    },
+    {
+        "id": 4,
+        "produto":"Jogo Modificado",
+        "descrição": "Descrição do jogo Modificado",
+        "foto": "jogo1.PNG",
+        "preco": 200
+    }
+]
+}
